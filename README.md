@@ -2,6 +2,7 @@
 Lemmings, but made with only 1 object.
 
 Disclaimer: The Lemming sprite is not the original, it's just a lookalike. The use of this project is for studies only and I am not responsible for misuse.
+Original game by Mike Dailly (https://en.wikipedia.org/wiki/Mike_Dailly_(game_designer)).
 
 Demo: https://foxyofjungle.itch.io/lemmings-but-1-object
 
