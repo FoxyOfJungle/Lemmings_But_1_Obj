@@ -1,0 +1,45 @@
+{
+  "resources": [
+    {"id":{"name":"snd_sound","path":"sounds/snd_sound/snd_sound.yy",},"order":6,},
+    {"id":{"name":"fnt_game","path":"fonts/fnt_game/fnt_game.yy",},"order":7,},
+    {"id":{"name":"spr_game","path":"sprites/spr_game/spr_game.yy",},"order":5,},
+    {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},"order":8,},
+    {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"order":9,},
+  ],
+  "Options": [
+    {"name":"Amazon Fire","path":"options/amazonfire/options_amazonfire.yy",},
+    {"name":"Android","path":"options/android/options_android.yy",},
+    {"name":"HTML5","path":"options/html5/options_html5.yy",},
+    {"name":"iOS","path":"options/ios/options_ios.yy",},
+    {"name":"Linux","path":"options/linux/options_linux.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"tvOS","path":"options/tvos/options_tvos.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+  ],
+  "isDnDProject": false,
+  "isEcma": false,
+  "configs": {
+    "name": "Default",
+    "children": [],
+  },
+  "RoomOrderNodes": [
+    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+  ],
+  "Folders": [],
+  "AudioGroups": [
+    {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
+  ],
+  "TextureGroups": [
+    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
+  ],
+  "IncludedFiles": [],
+  "MetaData": {
+    "IDEVersion": "2022.2.1.618",
+  },
+  "resourceVersion": "1.5",
+  "name": "OneObjectGame",
+  "tags": [],
+  "resourceType": "GMProject",
+}
